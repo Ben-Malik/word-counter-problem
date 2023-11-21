@@ -1,0 +1,53 @@
+HELP.md
+/word-counter-core/target/
+/word-counter-spring/target/
+/word-counter-jakarta/target/
+/word-counter-spring/!.mvn/wrapper/maven-wrapper.jar
+/word-counter-core/!.mvn/wrapper/maven-wrapper.jar
+/word-counter-jakarta/!.mvn/wrapper/maven-wrapper.jar
+/word-counter-spring/!**/src/main/**/target/
+/word-counter-core/!**/src/main/**/target/
+/word-counter-jakarta/!**/src/main/**/target/
+/word-counter-spring/!**/src/test/**/target/
+/word-counter-jakarta/!**/src/test/**/target/
+/word-counter-core/!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+
+### IntelliJ IDEA ###
+.idea
+/word-counter-spring/.idea
+/word-counter-core/.idea
+/word-counter-jakarta/.idea
+/word-counter-spring/*.iws
+/word-counter-core/*.iws
+/word-counter-jakarta/*.iws
+/word-counter-spring/*.iml
+/word-counter-core/*.iml
+/word-counter-jakarta/*.iml
+/word-counter-spring/*.ipr
+/word-counter-core/*.ipr
+/word-counter-jakarta/*.ipr
+
+### NetBeans ###
+/nbproject/private/-
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+/word-counter-core/.vscode/
+/word-counter-spring/.vscode/
+/word-counter-jakarta/.vscode/
