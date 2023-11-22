@@ -1,0 +1,8 @@
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/dto/GetMostNFrequencyWordsResponseErrorDTO.java
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/dto/GetHighestWordFrequencyResponseDTO.java
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/WordCounterSpringApplication.java
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/controller/RestrictedWordCounterController.java
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/constant/WordCounterConstants.java
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/dto/GetWordFrequencyResponseDTO.java
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/dto/UnauthorisedUserResponseDTO.java
+/Users/bentchamalam/Documents/personel/word-counter-problem/word-counter-rest/src/main/java/com/benmaliktchamalam/wordcounter/rest/controller/WordCounterController.java
