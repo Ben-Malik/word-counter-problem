@@ -14,6 +14,7 @@ import java.util.List;
 
 @RequestMapping("/api")
 @RestController
+@Deprecated
 public class WordCounterController {
     private final WordFrequencyAnalyzer wordFrequencyAnalyzer = new RegularWordFrequencyAnalyzer();
 
